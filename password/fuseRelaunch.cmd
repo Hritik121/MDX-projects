@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Xilinx/14.7/password/pwchk_tb_isim_beh.exe" -prj "C:/Xilinx/14.7/password/pwchk_tb_beh.prj" "work.pwchk_tb" 
