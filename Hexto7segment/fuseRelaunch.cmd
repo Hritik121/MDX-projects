@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Xilinx/14.7/Hexto7segment/hextosev_tb_isim_beh.exe" -prj "C:/Xilinx/14.7/Hexto7segment/hextosev_tb_beh.prj" "work.hextosev_tb" 
